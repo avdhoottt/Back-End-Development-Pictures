@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "pic_url": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "event_country": "United States",
+        "event_state": "New York",
+        "event_city": "New York City",
+        "event_date": "10/1/2023"
+    },
+    {
+        "id": 2,
+        "pic_url": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "event_country": "United States",
+        "event_state": "California",
+        "event_city": "San Francisco",
+        "event_date": "10/2/2023"
+    },
+    {
+        "id": 3,
+        "pic_url": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "event_country": "United States",
+        "event_state": "Texas",
+        "event_city": "Austin",
+        "event_date": "10/3/2023"
+    },
+    {
+        "id": 4,
+        "pic_url": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "event_country": "United States",
+        "event_state": "Washington",
+        "event_city": "Seattle",
+        "event_date": "10/4/2023"
+    },
+    {
+        "id": 5,
+        "pic_url": "http://dummyimage.com/200x100.png/4444ff/ffffff",
+        "event_country": "United States",
+        "event_state": "Illinois",
+        "event_city": "Chicago",
+        "event_date": "10/5/2023"
+    },
+    {
+        "id": 6,
+        "pic_url": "http://dummyimage.com/200x100.png/0000cc/ffffff",
+        "event_country": "United States",
+        "event_state": "Massachusetts",
+        "event_city": "Boston",
+        "event_date": "10/6/2023"
+    },
+    {
+        "id": 7,
+        "pic_url": "http://dummyimage.com/200x100.png/000000/ffffff",
+        "event_country": "United States",
+        "event_state": "Florida",
+        "event_city": "Miami",
+        "event_date": "10/7/2023"
+    },
+    {
+        "id": 8,
+        "pic_url": "http://dummyimage.com/200x100.png/cc00cc/ffffff",
+        "event_country": "United States",
+        "event_state": "Nevada",
+        "event_city": "Las Vegas",
+        "event_date": "10/8/2023"
+    },
+    {
+        "id": 9,
+        "pic_url": "http://dummyimage.com/200x100.png/00cc00/ffffff",
+        "event_country": "United States",
+        "event_state": "Oregon",
+        "event_city": "Portland",
+        "event_date": "10/9/2023"
+    },
+    {
+        "id": 10,
+        "pic_url": "http://dummyimage.com/200x100.png/cccc00/ffffff",
+        "event_country": "United States",
+        "event_state": "Colorado",
+        "event_city": "Denver",
+        "event_date": "10/10/2023"
+    }
+]
